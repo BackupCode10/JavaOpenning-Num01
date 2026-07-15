@@ -95,6 +95,8 @@ public class App {
                             System.out.println("3: " + acumVotos[2]);
                             System.out.println("4: " + acumVotos[3]);
                             System.out.println("5: " + acumVotos[4]);
+                            System.out.println("5: " + acumVotos[5]);
+                            System.out.println("5: " + acumVotos[6]);
                         int suma = 0;    
                         for ( int n : votosList){     
                            suma += n;                                
