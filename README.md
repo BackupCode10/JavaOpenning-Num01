@@ -1,4 +1,4 @@
-# Sistema de Registro de Votos (Java Básico)
+# Sistema de Registro de Votos (Java Básico) -  ESTO ES UN CAMBIO ECHO POR MI XD
 
 Este es un proyecto en **Java** que simula un sistema de registro y análisis de votos.  
 El usuario puede ingresar calificaciones del **1 al 5**, ver las estadísticas de los votos registrados y conocer el nivel de satisfacción.
